@@ -1,0 +1,17 @@
+{
+  "name": "thin-node",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "config": "~1.26",
+    "naught": "~1.6",
+    "express": "~4.15",
+    "body-parser": "~1.17",
+    "express-graceful-exit": "~0.4",
+    "knex": "~0.13",
+    "pg": "~7"
+  }
+}
