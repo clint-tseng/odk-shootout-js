@@ -13,9 +13,10 @@
     "express-graceful-exit": "~0.4",
     "knex": "~0.13",
     "pg": "~7",
+    "pg-query-stream": "~1.1",
     "xml-js": "~1.3",
     "jsonpath": "~0.2",
-    "csv-generate": "~1",
+    "csv-stringify": "~1",
     "archiver": "~2"
   }
 }
