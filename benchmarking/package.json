@@ -1,0 +1,10 @@
+{
+  "name": "thin-bench",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "livescript": "~1.5",
+    "faker": "~4",
+    "request": "~2"
+  }
+}
