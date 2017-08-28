@@ -10,6 +10,7 @@
     "naught": "~1.6",
     "express": "~4.15",
     "body-parser": "~1.17",
+    "morgan": "~1.8",
     "express-graceful-exit": "~0.4",
     "knex": "~0.13",
     "pg": "~7",
